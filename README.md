@@ -2,8 +2,8 @@
 
 Welcome to my final project for the **Unity Essentials Pathway**! This repository contains the source code for a collection of scenes and mini-games I built while mastering the fundamentals of the Unity Engine. It showcases the core skills learned throughout the official Unity Learn curriculum, from basic scene setup to C# scripting and publishing.
 
-### ✨ [Play the final WebGL build on itch.io!](https://arpan-akm.itch.io/unity-essentials-showcase) ✨
-[![Unity Essentials Showcase](https://github.com/ArpanMoharana/unity-essentials-showcase/blob/bcb74e02f03cfe96127b3a8fb7d75568de1f9df2/ss/Screenshot%202025-09-18%20at%2011.40.04%E2%80%AFAM.png)](https://github.com/ArpanMoharana/unity-essentials-showcase/blob/bcb74e02f03cfe96127b3a8fb7d75568de1f9df2/ss/Screenshot%202025-09-18%20at%2011.40.04%E2%80%AFAM.png)
+### ✨ [Play the final WebGL build on itch.io!](https://bharat-akm.itch.io/unity-essentials-showcase) ✨
+[![Unity Essentials Showcase](https://github.com/Bharat/unity-essentials-showcase/blob/bcb74e02f03cfe96127b3a8fb7d75568de1f9df2/ss/Screenshot%202025-09-18%20at%2011.40.04%E2%80%AFAM.png)](https://github.com/Bharat/unity-essentials-showcase/blob/bcb74e02f03cfe96127b3a8fb7d75568de1f9df2/ss/Screenshot%202025-09-18%20at%2011.40.04%E2%80%AFAM.png)
 
 ---
 
